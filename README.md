@@ -2,7 +2,8 @@
 The Project is a cooling system control logic implemented on Arduino.cc with hardware supports
 
 
-Introduction to Arduino
+## Introduction to Arduino
+
 Official website: https://www.arduino.cc/
 
 Arduino.cc is an Open-source hardware shares much of the principles and approach of free and open-source software. To facilitate flexible hardware implementation, Arcuino releases all of the original design files (Eagle CAD) for the Arduino hardware. These files are licensed under a Creative Commons Attribution Share-Alike license, which allows for both personal and commercial derivative works, as long as they credit Arduino and release their designs under the same license.
@@ -14,7 +15,7 @@ Documentation: https://www.arduino.cc/en/Reference/HomePage
 
 
 
-Introduction to project
+## Introduction to project
 
 The Project is a cooling system control logic implemented on Arduino.cc with hardware supports. It was built with temperature sensors, IRremote receiver and AC/DC circuit modules. The codes contained in this project only specifiy the control logic and function realization of the cooling system modes. The detailed information can be seen in the comment of relevant code documents.
 
